@@ -36,3 +36,4 @@ fg
 df
 gd
 fg
+muutos paikallisesti
